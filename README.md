@@ -1,2 +1,4 @@
-# dio-desafio-gitgub-segundo-repositorio
-Desafio de Projeto sobre Git/Github
+# Repositório do desafio de Projeto sobre Git/GitHub da Dio
+Repositório criado para o Desafio de Projeto.
+## Links úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
